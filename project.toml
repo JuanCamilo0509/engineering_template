@@ -1,0 +1,22 @@
+[project]
+name = "Project Name"
+version = "0.0.0"
+description = "Description of the project"
+author = "Author Name"
+
+[tasks]
+[[tasks.task1]]
+name = "Set up project repository"
+tags = ["setup", "repository"]
+finish = ""  # Date the task was completed.
+by = "" # person who completed
+
+[milestones]
+[[milestones.phase1]]
+name = "Milestone1"
+
+[team]
+[[team.member1]]
+name = "name"
+role = "role"
+email = "name@example.com"
