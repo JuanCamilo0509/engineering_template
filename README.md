@@ -2,10 +2,8 @@
 
 ![Image](./docs/assets/) or video.
 
-Description.
-Features/Requirements
-- 1
-- 2
+## Description
+What does the project do? 
 
 ## Project Builders
 If you want to recreate the latest version of the project, we recommend visiting the docs folder and download the user manual file. There you can find all the instructions, recommendations, dependencies, etc., for this project. Alternatively, in the releases section, you can download a ZIP file with all the files, including the user manual for each version.
