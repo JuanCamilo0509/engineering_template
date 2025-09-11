@@ -1,0 +1,7 @@
+[[functional]]
+id = "RQ-F001"
+description = "The text here will be include directly in the manual if the test is pass"
+
+[[nonfunctional]]
+id = "RQ-NF001"
+description = "The text here will be include directly in the manual if the test is pass"
