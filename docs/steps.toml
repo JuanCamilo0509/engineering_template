@@ -1,0 +1,9 @@
+[[step]]
+title = "Step1"
+image = "images/step1.png"
+description = "Attach part A to part B using two screws."
+
+[[step]]
+title = "Step2"
+image = "images/step2.png"
+description = "Attach part A to part B using two screws."
