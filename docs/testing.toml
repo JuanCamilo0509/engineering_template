@@ -5,7 +5,7 @@ description = "Test description: What does the test do?"
 expected = "Some value to be expected"
 result = "Result"
 status = "pending" # approved or rejected
-evidence = ["assets/test/___.png"]
+evidence = "assets/test/___.png"
 
 [[test]]
 id = "TST-002"
@@ -14,4 +14,4 @@ description = "Test description: What does the test do?"
 expected = "Some value to be expected"
 result = "Result"
 status = "pending" # approved or rejected
-evidence = ["assets/test/___.png"]
+evidence = "assets/test/___.png"

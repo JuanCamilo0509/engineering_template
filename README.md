@@ -1,6 +1,6 @@
 # Project's name 
 
-![Image](./docs/assets/) or video.
+![Logo](./docs/assets/logo.png) or video.
 
 ## Description
 What does the project do? 
