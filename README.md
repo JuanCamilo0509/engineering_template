@@ -1,6 +1,7 @@
 # Project's name 
 
-![Logo](./docs/assets/logo.png) or video.
+![Logo](./docs/assets/logo.png)
+<!-- And/or a video. For the documentation is necesary to have a logo.png in the assets folder -->
 
 ## Description
 What does the project do? 
