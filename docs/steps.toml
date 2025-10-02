@@ -1,19 +1,4 @@
 [[step]]
-title = "Step1"
-image = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHk3i9Na4OKtYEsv-_4c7jKGlLqKey1DcXA&s"
-description = "Attach part A to part B using two screws."
-
-[[step]]
-title = "Step2"
-image = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTws0Ij4kcGZBYZ3gZGrvyzRbnIrXPC3fAcuw&s"
-description = "Attach part A to part B using two screws."
-
-[[step]]
-title = "Step2"
-image = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHk3i9Na4OKtYEsv-_4c7jKGlLqKey1DcXA&s"
-description = "Attach part A to part B using two screws."
-
-[[step]]
-title = "Step2"
-image = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHk3i9Na4OKtYEsv-_4c7jKGlLqKey1DcXA&s"
-description = "Attach part A to part B using two screws."
+title = "Title Step1"
+image = "./assets/logo.png"
+description = "Description step by step of the assembly"
